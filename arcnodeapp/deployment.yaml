@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: nodejs
-          image: joshuaombasa/nodejs-eks-app:v14  
+          image: joshuaombasa/nodejs-eks-app:v15  
           ports:
             - containerPort: 3000
 ---
